@@ -1,0 +1,15 @@
+C:\Users\gabri\dodev\finaldesemana2\bin\Debug\net6.0\finaldesemana2.exe
+C:\Users\gabri\dodev\finaldesemana2\bin\Debug\net6.0\finaldesemana2.deps.json
+C:\Users\gabri\dodev\finaldesemana2\bin\Debug\net6.0\finaldesemana2.runtimeconfig.json
+C:\Users\gabri\dodev\finaldesemana2\bin\Debug\net6.0\finaldesemana2.dll
+C:\Users\gabri\dodev\finaldesemana2\bin\Debug\net6.0\finaldesemana2.pdb
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\finaldesemana2.csproj.AssemblyReference.cache
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\finaldesemana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\finaldesemana2.AssemblyInfoInputs.cache
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\finaldesemana2.AssemblyInfo.cs
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\finaldesemana2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\finaldesemana2.dll
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\refint\finaldesemana2.dll
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\finaldesemana2.pdb
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\finaldesemana2.genruntimeconfig.cache
+C:\Users\gabri\dodev\finaldesemana2\obj\Debug\net6.0\ref\finaldesemana2.dll
