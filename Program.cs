@@ -19,7 +19,7 @@ namespace finaldesemana2
 
         static void Main(string[] args)
         {
-            bool repetir = true;
+          /*  bool repetir = true;
             double total = 0;
             Pizza pizza = new Pizza();
             Lanche lanche = new Lanche();
@@ -33,7 +33,7 @@ namespace finaldesemana2
             int opcao = int.Parse(Console.ReadLine());
             do
             {
-                
+
                 if (opcao == 1)
                 {
                     total = total + pizza.BordaFina;
@@ -73,12 +73,35 @@ namespace finaldesemana2
                     Console.WriteLine("Opção invalida Digite novamente");
                     repetir = false;
                 }
-            }while(repetir);
+            } while (repetir); */
+
+            var numerosMaisUm = new List<int>();
+            var numeros = new List<int>();
+            var strings = new List<string>();
+            for (var contador = 0; contador < 10; contador++)
+            {
+                numeros.Add(contador);
+                numerosMaisUm.Add(contador + 10);
+                strings.Add(contador.ToString());
+            }
+            numeros.AddRange(numerosMaisUm);
+            var tentativaUm = numeros.Remove(5+6);
+
+            var indexString = strings.IndexOf(Console.ReadLine());
+            var indexCinco = numeros.IndexOf(int.Parse(Console.ReadLine()));
+            var posicaoDoMeuNome = numeros.ElementAt(3);
+            var valorNaPosicaoTres = numeros.ElementAt(3);
+            var valorPar = numeros.Find(numero => numero % 2 ==0);
+            var valoresPares = numeros.Where(numero => numero % 2 ==0);
+            var valoresParesDois = numeros.FindAll(numero => numero % 2 == 0);
+
+            Console.WriteLine("Finalizou");
 
         }
 
     }
 }
+
 
 
 

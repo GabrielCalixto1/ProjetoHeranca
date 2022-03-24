@@ -26,7 +26,6 @@ namespace finaldesemana2.Pedidos
                     SimOuNao = false;
                     Console.WriteLine("Opção Inválida!");
 
-
                 }
             }
             while (repetir);
